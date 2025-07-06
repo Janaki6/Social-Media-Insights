@@ -63,7 +63,7 @@ Design Principles: Used Smart Frames UI components for a clean, user-friendly la
 ✔️ The importance of visual hierarchy and storytelling in a dashboard that explains rather than just shows data.
 
 
-Dashbaord link: https://app.powerbi.com/groups/me/reports/9efe630d-8d3d-4db7-8dd5-47bc033aecb0/fc818cac37fd96fdb766?experience=power-bi
+Dashboard link: https://app.powerbi.com/groups/me/reports/9efe630d-8d3d-4db7-8dd5-47bc033aecb0/fc818cac37fd96fdb766?experience=power-bi
 
 ![image](https://github.com/user-attachments/assets/16341393-e618-46db-b5c4-3fbe0f576bdd)
 
